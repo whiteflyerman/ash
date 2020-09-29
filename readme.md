@@ -37,7 +37,7 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - **[Cubet Techno Labs](https://cubettech.com)**
 - **[British Software Development](https://www.britishsoftware.co)**
 - **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- [UserInsights](https://userinsights.com)
+- [UserInsights](https://userinsights111.com)
 - [Fragrantica](https://www.fragrantica.com)
 - [SOFTonSOFA](https://softonsofa.com/)
 - [User10](https://user10.com)
